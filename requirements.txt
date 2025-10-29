@@ -1,0 +1,9 @@
+selenium
+webdriver-manager
+pandas
+openpyxl
+gspread
+oauth2client
+pygame
+requests
+tk
