@@ -27,3 +27,14 @@ A automação integra autenticação via API do Google, controle de status de me
 -webdriver_manager
 -requests
 
+
+🧰 Objetivo do projeto
+Este projeto foi desenvolvido com o propósito de automatizar atendimentos repetitivos em uma plataforma de mensagens, conectando dados da planilha à execução prática via browser automatizado.
+Também serve como um exemplo de integração entre automação web e interface desktop em Python.
+
+⚠️ Observação
+As credenciais, URLs e dados de login devem ser ocultadas para segurança.
+Antes de publicar, substitua essas informações por placeholders e adicione o arquivo .env ao .gitignore.
+
+📄 Licença
+Este projeto é de uso livre para fins educacionais e demonstração de automação Python com interface gráfica.
